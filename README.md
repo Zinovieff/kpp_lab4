@@ -1,9 +1,9 @@
 # Лабораторно робота № 4. Виконав студент групи 1КН-17МС Зінов'єв Євгеній
 
-Розроблена мобільна аплікація використовує плагін cordova для вібрації по нажаттю кнопки.
+Розроблена примітивна мобільна аплікація використовує плагін cordova для реалізаціїї вібрації смартфонау по нажаттю кнопки.
 
 Іконка мобільної аплікації
-![](https://github.com/YuliaOsadchuk/kpp_lab_4/blob/master/photo_2017-12-15_00-19-41.jpg)
+![](https://github.com/Zinovieff/kpp_lab4/blob/master/Screenshot_2017-12-19-01-56-35-945_com.miui.home.png)
 
 Запущена мобільна аплікація
-![](https://github.com/YuliaOsadchuk/kpp_lab_4/blob/master/photo_2017-12-15_00-19-41%20(2).jpg)
+![](https://github.com/Zinovieff/kpp_lab4/blob/master/Screenshot_2017-12-19-01-58-35-945_com.miui.home.png)
